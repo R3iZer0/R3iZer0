@@ -2,7 +2,7 @@
 
 **`Software Developer (Data Science / Back-end)`**
 
-Second-year Bachelor in Information Technology with profile software engineering, I have finished various programming courses, with a particular focus on Data Science and Back-end development utilizing Django. My academic pursuits have been complemented by developing of numerous personal projects related to Data Science and  Web Development, showcasing my ability to apply theoretical knowledge to  practical applications. Moreover, I am actively   contributing to Open Source projects, further honing my skills and staying abreast  of the latest industry   trends.
+Software Developer with a particular focus on Data Science,my focus is on developing prediction projects and creating effective data visualizations. I use my software development skills to turn raw data into meaningful insights that drive decision-making and Back-end development utilizing Django.Always trying to keep up with the latest of the technology be developing personal projects and contributing to the community with open-source projects 
 
 
 
